@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TodostudyApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(TodostudyApplication.class, args);
+		// todoList Test
 	}
 
 }
